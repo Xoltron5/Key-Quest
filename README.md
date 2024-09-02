@@ -5,7 +5,7 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Demo](#demo)
-- [conclusion](#conclusion)
+- [progression](#progression)
 - [Contact](#contact)
 
 ## Overview
@@ -34,12 +34,8 @@ Earn Trophies to show that you beat a difficulty
 
 Youtube link: https://www.youtube.com/watch?v=9QvVP11Druk
 
-## Conclusion 
-This was a really fun project to make there where alot of challenges (looking at you javafx). This project expanded my java knowledge even improving my UI design skills. The UI was really satisfying to make in Figma but javafx was a different story. 
-
-After learning databases in college it was really satisfying to finally put that knowledge i learnt and actually make a proper database and have my app interact with it store user data and retrieve it! 
-
-Overall I am pretty proud of this project, but It is definitely nowhere near to being finished. I have alot planned and want to turn it into a proper app in the future. 
+## Progression 
+This was by far my favorite project! I made this in my Microprocessors module that i took in 2nd year. By far this was the most fun I had making a project. I was really into dungeon crawler games at the time and always wanted to make my own so I did just that. Now that i look at it I was very surprised how i managed to make this using no multi-threading and to be honest if i were to recreate this game today i would 100% use it. 
 
 ## Contact 
 
