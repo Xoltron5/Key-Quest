@@ -35,7 +35,9 @@ Earn Trophies to show that you beat a difficulty
 Youtube link: https://www.youtube.com/watch?v=9QvVP11Druk
 
 ## Progression 
-This was by far my favorite project! I made this in my Microprocessors module that i took in 2nd year. By far this was the most fun I had making a project. I was really into dungeon crawler games at the time and always wanted to make my own so I did just that. Now that i look at it I was very surprised how i managed to make this using no multi-threading and to be honest if i were to recreate this game today i would 100% use it. 
+This was by far my favorite project! I made this in my Microprocessors module that i took in 2nd year. By far this was the most fun I had making a project. 
+
+I was really into dungeon crawler games at the time and always wanted to make my own so I did just that. Now that i look at it I was very surprised how i managed to make this using no multi-threading and to be honest if i were to recreate this game today i would 100% use it. 
 
 ## Contact 
 
